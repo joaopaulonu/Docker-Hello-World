@@ -1,4 +1,4 @@
-"""# 🐳 Docker: Hello World Implementation
+### 🐳 Docker: Hello World Implementation
 
 ![Language](https://img.shields.io/badge/Tools-Docker-blue)
 ![Category](https://img.shields.io/badge/Category-Infrastructure-brightgreen)
